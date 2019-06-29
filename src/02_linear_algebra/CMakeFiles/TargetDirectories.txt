@@ -1,0 +1,6 @@
+/home/manzil/Desktop/humanoid_robot/group-20/src/02_linear_algebra/CMakeFiles/rebuild_cache.dir
+/home/manzil/Desktop/humanoid_robot/group-20/src/02_linear_algebra/CMakeFiles/edit_cache.dir
+/home/manzil/Desktop/humanoid_robot/group-20/src/02_linear_algebra/CMakeFiles/test.dir
+/home/manzil/Desktop/humanoid_robot/group-20/src/02_linear_algebra/CMakeFiles/linear_algebra-test.dir
+/home/manzil/Desktop/humanoid_robot/group-20/src/02_linear_algebra/CMakeFiles/linear_algebra.dir
+/home/manzil/Desktop/humanoid_robot/group-20/src/02_linear_algebra/CMakeFiles/linear_algebra_node.dir

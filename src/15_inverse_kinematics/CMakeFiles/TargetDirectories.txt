@@ -1,0 +1,6 @@
+/home/manzil/Desktop/humanoid_robot/group-20/src/15_inverse_kinematics/CMakeFiles/edit_cache.dir
+/home/manzil/Desktop/humanoid_robot/group-20/src/15_inverse_kinematics/CMakeFiles/test.dir
+/home/manzil/Desktop/humanoid_robot/group-20/src/15_inverse_kinematics/CMakeFiles/rebuild_cache.dir
+/home/manzil/Desktop/humanoid_robot/group-20/src/15_inverse_kinematics/CMakeFiles/inverse_kinematics-test.dir
+/home/manzil/Desktop/humanoid_robot/group-20/src/15_inverse_kinematics/CMakeFiles/inverse_kinematics.dir
+/home/manzil/Desktop/humanoid_robot/group-20/src/15_inverse_kinematics/CMakeFiles/inverse_kinematics_node.dir

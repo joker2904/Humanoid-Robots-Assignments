@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/projective_geometry_node.dir/src/main.cpp.o  -o projective_geometry_node libprojective_geometry.a 

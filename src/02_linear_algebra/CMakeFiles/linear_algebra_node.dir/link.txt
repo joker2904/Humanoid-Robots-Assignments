@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/linear_algebra_node.dir/src/main.cpp.o  -o linear_algebra_node -Wl,-rpath,/home/manzil/Desktop/humanoid_robot/group-20/src/02_linear_algebra liblinear_algebra.so 

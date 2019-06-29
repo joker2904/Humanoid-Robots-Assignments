@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/windows-helpers.h
+iostream
+-
+
+/home/manzil/Desktop/humanoid_robot/group-20/src/10_particle_filter/src/main.cpp
+windows-helpers.h
+-
+iostream
+-
+particle_filter/ParticleFilter.h
+-
+particle_filter/FileIO.h
+-
+ctime
+-
+cstdlib
+-
+
+include/particle_filter/FileIO.h
+vector
+-
+particle_filter/ParticleFilter.h
+-
+string
+-
+fstream
+-
+iostream
+-
+
+include/particle_filter/ParticleFilter.h
+vector
+-
+
